@@ -1,8 +1,8 @@
-# XPay Labs Checkout — Self-Hosted Crypto Payment Checkout Page
+# XPay Labs (xpay) Checkout — Self-Hosted Crypto Payment Checkout Page
 
 English | [中文](README.zh.md)
 
-**XPay Labs Checkout** is a self-hosted, white-label cryptocurrency payment checkout page built with Vue 3 + TypeScript. It renders a seamless payment UI that connects to your [XPay Labs](https://www.xpaylabs.com) self-hosted gateway — customers see your brand, pay with USDT/USDC on TRON, EVM chains, or SUI, and get real-time payment status updates.
+**XPay Labs (xpay) Checkout** is a self-hosted, white-label cryptocurrency payment checkout page built with Vue 3 + TypeScript. It renders a seamless payment UI that connects to your [XPay Labs (xpay)](https://www.xpaylabs.com) self-hosted gateway — customers see your brand, pay with USDT/USDC on TRON, EVM chains, or SUI, and get real-time payment status updates.
 
 ## Features
 

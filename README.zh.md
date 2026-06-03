@@ -1,8 +1,8 @@
-# XPay Labs Checkout — 自托管加密货币支付结账页面
+# XPay Labs（简称 xpay）Checkout — 自托管加密货币支付结账页面
 
 [English](README.md) | 中文
 
-**XPay Labs Checkout** 是基于 Vue 3 + TypeScript 构建的自托管、白标加密货币支付结账页面。它提供无缝的支付 UI，连接到你的 [XPay Labs](https://www.xpaylabs.com) 自托管网关 — 客户看到你的品牌，使用 USDT/USDC 在 TRON、EVM 链或 SUI 上支付，并实时获取支付状态更新。
+**XPay Labs（简称 xpay）Checkout** 是基于 Vue 3 + TypeScript 构建的自托管、白标加密货币支付结账页面。它提供无缝的支付 UI，连接到你的 [XPay Labs (xpay)](https://www.xpaylabs.com) 自托管网关 — 客户看到你的品牌，使用 USDT/USDC 在 TRON、EVM 链或 SUI 上支付，并实时获取支付状态更新。
 
 ## 功能特性
 
