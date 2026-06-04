@@ -34,3 +34,5 @@ coverage
 .env.local
 .env.*.local
 .env.development
+
+AGENTS.md
