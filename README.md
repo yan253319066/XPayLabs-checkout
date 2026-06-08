@@ -39,7 +39,7 @@ This checkout page works with the XPay Labs payment gateway. Point it at your se
 
 - [XPay Labs Website](https://github.com/yan253319066/XPayLabs) — Marketing site & docs
 - [Node.js SDK](https://github.com/yan253319066/XPayLabs-node-sdk) — Backend API client
-- [Java SDK](https://github.com/yan253319066/XPayLabs-java-sdk) — Java/Spring Boot API client
+- [Java SDK](https://github.com/yan253319066/XPayLabs-java-sdk) — Java API client
 - [React Example](https://github.com/yan253319066/XPayLabs-example-react) — React integration demo
 - [Vue 3 Example](https://github.com/yan253319066/XPayLabs-example-vue) — Vue 3 integration demo
 
