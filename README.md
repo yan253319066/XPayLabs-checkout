@@ -43,6 +43,11 @@ This checkout page works with the XPay Labs payment gateway. Point it at your se
 - [React Example](https://github.com/yan253319066/XPayLabs-example-react) — React integration demo
 - [Vue 3 Example](https://github.com/yan253319066/XPayLabs-example-vue) — Vue 3 integration demo
 
+## Repository
+
+**GitHub:** [yan253319066/XPayLabs-checkout](https://github.com/yan253319066/XPayLabs-checkout)
+**Gitee (mirror):** [XPayLabs/XPayLabs-checkout](https://gitee.com/XPayLabs/XPayLabs-checkout)
+
 ## License
 
 MIT
