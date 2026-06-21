@@ -30,6 +30,11 @@ npm run dev
 - Axios（HTTP 客户端）
 - QRCode（二维码生成）
 
+## 仓库
+
+**GitHub:** [yan253319066/XPayLabs-checkout](https://github.com/yan253319066/XPayLabs-checkout)
+**Gitee（镜像）:** [XPayLabs/XPayLabs-checkout](https://gitee.com/XPayLabs/XPayLabs-checkout)
+
 ## 许可证
 
 MIT
